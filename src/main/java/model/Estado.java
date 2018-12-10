@@ -23,6 +23,8 @@ public class Estado implements Serializable {
     private Integer id;
     private String nome;
 
+    // classes beans
+
     public Integer getId() {
         return id;
     }
